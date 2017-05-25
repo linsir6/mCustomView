@@ -4,7 +4,7 @@
 
 
 
-![效果图](http://upload-images.jianshu.io/upload_images/2585384-8f6561376acf91b7.gif?imageMogr2/auto-orient/strip)
+![效果图](https://ws2.sinaimg.cn/large/006tNbRwly1ffxxfb2a80g308i0f80vk.gif)
 
 
 ``drawBitmap``是指将一张图片一张图片画在画布上面。这里面调用的：
