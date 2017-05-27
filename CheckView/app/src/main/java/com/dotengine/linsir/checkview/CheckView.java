@@ -104,7 +104,8 @@ public class CheckView extends View {
     }
 
 
-    @Override protected void onDraw(Canvas canvas) {
+    @Override
+    protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         canvas.translate(mWidth / 2, mHeight / 2);
         canvas.drawCircle(0, 0, 240, mPaint);

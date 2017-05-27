@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         unChecked = (Button) findViewById(R.id.un_checked);
         checkView = (CheckView) findViewById(R.id.check_view);
         checkView.setBackgroundColor(Color.BLUE);
-
+        checkView.check();
         checked.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View view) {
                 checkView.check();
