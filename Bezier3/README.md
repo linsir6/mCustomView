@@ -4,7 +4,7 @@
 
 
 
-![bezier3](/Users/mac/Desktop/bezier3.gif)
+![bezier3](https://ws4.sinaimg.cn/large/006tKfTcly1fgwiac2u2qg308u0gm7nz.gif)
 
 
 
