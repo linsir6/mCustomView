@@ -9,5 +9,6 @@
 
 - [CameraView](/CameraView) :自定义的一个相机的view，可以直接在view上获取摄像头的流，并且可以快照
 - [CheckView](/CheckView) :自定义的一个动态画对号的view，并且富有详细的自定义过程的教程
-- [PieView](PieView) :自定义的一个饼状图的view，并且富有详细的自定义过程的基础教程
+- [PieView](/PieView) :自定义的一个饼状图的view，并且富有详细的自定义过程的基础教程
+- [Bezier](/Bezier) :二阶的贝塞尔曲线绘制，以及贝塞尔曲线绘制的原理
 
