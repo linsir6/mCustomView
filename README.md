@@ -14,6 +14,7 @@
 - [二阶Bezier](/Bezier) :二阶的贝塞尔曲线绘制，以及贝塞尔曲线绘制的原理
 - [三阶Bezier](/Bezier3) :三阶的贝塞尔曲线绘制，以及贝塞尔曲线绘制的原理
 - [BezierDemo](/BezierDemo) :贝塞尔曲线的demo，绘制了一个渐变的心形
+- [LearnCustomView](/LearnCustomView) :Android利用translate、scale、alpha、rotate实现动画效果
 
 
 **感觉不错的话，可以给一波star～**
